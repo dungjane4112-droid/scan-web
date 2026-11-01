@@ -1,0 +1,6 @@
+{
+  "name": "LiquidWeb Extractor & Asset Bundler",
+  "description": "Trích xuất tài nguyên website (HTML, CSS, JS, Media) theo liên kết phụ thuộc và đóng gói ZIP hoàn toàn trên trình duyệt với giao diện Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
